@@ -11,4 +11,4 @@ This repo just holds my write up on non serious bugs I find.
   |_ [DaggerFallOnline](https://github.com/LuckyHiro/MyBugs/tree/main/Games/DaggerFallOnline)
 
 ## Services:
-  |_ [Paypal](https://github.com/LuckyHiro/MyBugs/tree/main/Games/WaxWeaver)
+  |_ [Paypal](https://github.com/LuckyHiro/MyBugs/tree/main/Services/Paypal)
