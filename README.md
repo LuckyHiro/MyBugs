@@ -10,5 +10,7 @@ This repo just holds my write up on non serious bugs I find.
 
   |_ [DaggerFallOnline](https://github.com/LuckyHiro/MyBugs/tree/main/Games/DaggerFallOnline)
 
+  |_ [Bombrush Cyberfunk (All City Network / Freesoul)](https://github.com/LuckyHiro/MyBugs/tree/main/Games/Bombrush%20(All%20City%20Network))
+
 ## Services:
   |_ [Paypal](https://github.com/LuckyHiro/MyBugs/tree/main/Services/Paypal)
